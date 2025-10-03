@@ -41,7 +41,7 @@ Bu araç, siber güvenlik uzmanları ve kriptografi meraklıları için gelişti
 
 1. **Repository'yi klonlayın:**
 ```bash
-git clone [<[repository-url](https://github.com/MrSpy00/CodexCore)>](https://github.com/MrSpy00/CodexCore)
+git clone https://github.com/MrSpy00/CodexCore
 cd codexcore
 ```
 
@@ -177,4 +177,5 @@ Bu proje Apache License 2.0 altında lisanslanmıştır. Detaylar için LICENSE 
 
 <div align="center">
 <a href="https://buymeacoffee.com/aegissoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="aegis" /></a></div>
+
 
