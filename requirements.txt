@@ -1,0 +1,35 @@
+# Gelişmiş Kriptografi Aracı - Gerekli Paketler
+# Advanced Cryptography Tool - Required Packages
+
+# Kriptografi kütüphaneleri
+cryptography>=41.0.0
+
+# Clipboard işlemleri için
+pyperclip>=1.8.2
+
+# Geliştirme ve test için (opsiyonel)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
+
+# Not: Bu araç Python 3.6+ gerektirir
+# Diğer tüm modüller Python built-in'dir:
+# - secrets (güvenli şifre üretimi)
+# - hashlib (hash fonksiyonları)
+# - base64 (encoding/decoding)
+# - os (dosya işlemleri)
+# - getpass (güvenli şifre girişi)
+# - sys (sistem işlemleri)
+# - string (string işlemleri)
+# - time (zaman işlemleri)
+# - binascii (binary/ASCII dönüşümleri)
+# - typing (tip ipuçları)
+
+# Güvenlik Notları:
+# - cryptography kütüphanesi güvenlik sağlar
+# - PBKDF2-HMAC-SHA512 ile şifre türetme
+# - 256-bit AES şifreleme
+# - 2048-bit RSA anahtarları
+# - Kriptografik olarak güvenli rastgele sayı üretimi
