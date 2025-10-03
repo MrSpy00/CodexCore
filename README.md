@@ -165,6 +165,7 @@ Bu proje Apache License 2.0 altında lisanslanmıştır. Detaylar için LICENSE 
 ## Not:
 
 - **Yeni özellikler eklenecektir.**
+- **Bazı işlemler için yapay zekadan yardım alınmıştır!**
 
 
 ---
@@ -177,5 +178,6 @@ Bu proje Apache License 2.0 altında lisanslanmıştır. Detaylar için LICENSE 
 
 <div align="center">
 <a href="https://buymeacoffee.com/aegissoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="aegis" /></a></div>
+
 
 
